@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Priyanshu Singh</h1>
-<h3 align="center">A passionate MERN Stack Developer & Cloud Computing Enthusiast</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Priyanshu+Singh;Full+Stack+Developer+and;Cloud+Learner+(AWS+%2F+Azure);Building+Full-Stack+Web+Applications" alt="Typing SVG">
+</p>
+<h3 align="center">Full Stack Developer & Cloud Computing</h3>
 
-Passionate about building scalable web applications using the MERN stack and deploying them on cloud platforms. Constantly learning and implementing cloud-native solutions to optimize performance and reduce costs.
-- 🌱 I’m currently learning *AWS, DevOps, and Scalable Cloud Architectures*
-- 🔭 I’m working on *modern web apps using React, Node.js, and MongoDB*
-- 💬 Ask me about *MERN Stack, REST APIs, and deploying apps on AWS & Vercel*
+Passionate about building scalable web applications using the MERN stack and deploying them on cloud platforms. Constantly learning and implementing cloud-native solutions to optimize performance and reduce costs. I’m currently learning *AWS, DevOps, and Scalable Cloud Architectures* I’m working on *modern web apps using React, Node.js, and MongoDB* 💬 Ask me about *MERN Stack, REST APIs, and deploying apps on AWS & Vercel*
+
 - ⚡ Fun fact: I enjoy automating things and experimenting with new cloud services
 
 
@@ -39,6 +39,9 @@ Passionate about building scalable web applications using the MERN stack and dep
 ### ☁ Cloud Technologies
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+
+### 🌱 Currently Exploring
+I’m expanding my skill set into the world of *Web3 & Blockchain* with:
 
 ### 🔗 Blockchain Development
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
