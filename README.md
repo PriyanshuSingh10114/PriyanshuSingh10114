@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Priyanshu+Singh;Full+Stack+Developer+and;Cloud+Learner+(AWS+%2F+Azure);Building+Full-Stack+Web+Applications" alt="Typing SVG">
 </p>
-<h3 align="center"> MERN | DEVOPS | CLOUD </h3>
+<h3 align="center"> ⚛️ MERN | ⚙️ DevOps | ☁️ Cloud |</h3>
 
 Passionate about building scalable web applications using the MERN stack and deploying them on cloud platforms. Constantly learning and implementing cloud-native solutions to optimize performance and reduce costs. I’m currently learning *AWS, DevOps, and Scalable Cloud Architectures* I’m working on *modern web apps using React, Node.js, and MongoDB* 💬 Ask me about *MERN Stack, REST APIs, and deploying apps on AWS & Vercel*
 
