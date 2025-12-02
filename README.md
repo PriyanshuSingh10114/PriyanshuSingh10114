@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="BANNER_LINK_HERE" alt="Priyanshu Singh Banner" width="100%">
+  <img src="<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/91207004-641c-4ff4-b2ec-461f8803abed" />
+" alt="Priyanshu Singh Banner" width="100%">
 </p>
 
 <h2 align="center">👨‍💻 Priyanshu Singh — Full Stack Developer | Cloud & DevOps</h2>
