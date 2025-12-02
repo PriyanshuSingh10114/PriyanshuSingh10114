@@ -2,7 +2,7 @@
   <img src="225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner GIF" width="100%">
 </p>
 
-<h2 align="center">👨‍💻 Priyanshu Singh — Full Stack Developer | Cloud & DevOps</h2>
+<h2 align="center">Full Stack Developer | Cloud & DevOps</h2>
 <h3 align="center">MERN • CI/CD • Kubernetes • Cloud Infrastructure</h3>
 
 
