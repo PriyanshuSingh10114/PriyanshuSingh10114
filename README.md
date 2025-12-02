@@ -1,16 +1,32 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Priyanshu+Singh;Full+Stack+Developer+and;Cloud+Learner+(AWS+%2F+Azure);Building+Full-Stack+Web+Applications" alt="Typing SVG">
-</p>
-<h3 align="center"> ⚛️ MERN | ⚙️ DevOps | ☁️ Cloud </h3>
-
-Passionate about building scalable web applications using the MERN stack and deploying them on cloud platforms. Constantly learning and implementing cloud-native solutions to optimize performance and reduce costs. I’m currently learning *AWS, DevOps, and Scalable Cloud Architectures* I’m working on *modern web apps using React, Node.js, and MongoDB* 💬 Ask me about *MERN Stack, REST APIs, and deploying apps on AWS & Vercel*
-
-- ⚡ Fun fact: I enjoy automating things and experimenting with new cloud services
 
 
-- 📫 How to reach me: *priyanshusingh22340@gmail.com*
+<h3 align="center"> ⚛️ MERN • ⚙️ DevOps • ☁️ Cloud </h3>
+
+🚀 I am a Full Stack Developer with strong experience in building scalable, real-world applications using the **MERN stack**.  
+My focus is on developing clean, maintainable architectures and deploying them in modern cloud environments.
+
+🔧 I actively explore **Cloud-Native, DevOps, and automation tools** to streamline development, improve performance, and reduce operational overhead.  
+Currently deepening my knowledge in **AWS, Kubernetes, CI/CD pipelines, and production-grade deployments.**
+
+💼 I enjoy turning ideas into working solutions — from UI/UX to backend logic, infrastructure, and deployment.
 
 ---
+
+### 💬 What I Do
+- 🔥 Build full-stack projects using **React, Node.js, Express & MongoDB**
+- ☁️ Deploy and maintain apps on **AWS, Render, Vercel**
+- ⚙️ Automate workflows using **Docker, CI/CD, Cloud Tools**
+- 📡 Design scalable **REST APIs & backend architectures**
+
+---
+
+### 📬 Reach Me
+- **Email:** *priyanshusingh22340@gmail.com*
+
+---
+
+✨ *I thrive in a collaborative environment, learn fast, and love solving real problems through technology.*
+
 
 ## 🚀 My Tech Stack
 
