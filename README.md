@@ -1,6 +1,10 @@
+<p align="center">
+  <img src="BANNER_LINK_HERE" alt="Priyanshu Singh Banner" width="100%">
+</p>
 
+<h2 align="center">👨‍💻 Priyanshu Singh — Full Stack Developer | Cloud & DevOps</h2>
+<h3 align="center">MERN • CI/CD • Kubernetes • Cloud Infrastructure</h3>
 
-<h3 align="center"> ⚛️ MERN • ⚙️ DevOps • ☁️ Cloud </h3>
 
 🚀 I am a Full Stack Developer with strong experience in building scalable, real-world applications using the **MERN stack**.  
 My focus is on developing clean, maintainable architectures and deploying them in modern cloud environments.
