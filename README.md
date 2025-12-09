@@ -6,13 +6,15 @@
 <h3 align="center">MERN • CI/CD • Kubernetes • Cloud Infrastructure</h3>
 
 
-🚀 I am a Full Stack Developer with strong experience in building scalable, real-world applications using the **MERN stack**.  
-My focus is on developing clean, maintainable architectures and deploying them in modern cloud environments.
+=> I am a Full Stack Developer with strong experience in building scalable, real-world applications using the **MERN stack**.
 
-🔧 I actively explore **Cloud-Native, DevOps, and automation tools** to streamline development, improve performance, and reduce operational overhead.  
-Currently deepening my knowledge in **AWS, Kubernetes, CI/CD pipelines, and production-grade deployments.**
+=> My focus is on developing clean, maintainable architectures and deploying them in modern cloud environments.
 
-💼 I enjoy turning ideas into working solutions — from UI/UX to backend logic, infrastructure, and deployment.
+=> I actively explore **Cloud-Native, DevOps, and automation tools** to streamline development, improve performance, and reduce operational overhead.
+
+=> Currently deepening my knowledge in **AWS, Kubernetes, CI/CD pipelines, and production-grade deployments.**
+
+=> I enjoy turning ideas into working solutions — from UI/UX to backend logic, infrastructure, and deployment.
 
 ---
 
@@ -85,6 +87,16 @@ Currently deepening my knowledge in **AWS, Kubernetes, CI/CD pipelines, and prod
 <a href="https://leetcode.com/u/priyanshu_singh10114/" target="_blank">
   <img src="https://leetcard.jacoblin.cool/priyanshu_singh10114?theme=dark&border=0&radius=14&ext=badge&bgColor=0d1117&text=ffffff&icon_color=d4af37" width="420" />
 </a>
+
+
+---
+## 🎓 Certifications
+
+[![AZ-900](https://img.shields.io/badge/Microsoft_Azure_Fundamentals-AZ--900-d4af37?style=for-the-badge&logo=microsoftazure&logoColor=white)]()
+
+
+
+
 
 
 
