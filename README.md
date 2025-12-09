@@ -75,6 +75,20 @@ Currently deepening my knowledge in **AWS, Kubernetes, CI/CD pipelines, and prod
 ![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white)
 ![Shell Scripting](https://img.shields.io/badge/Shell_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
+---
+
+
+## 🧠 LeetCode Progress – priyanshu_singh10114  
+
+<div align="center">
+
+<a href="https://leetcode.com/u/priyanshu_singh10114/" target="_blank">
+  <img src="https://leetcard.jacoblin.cool/priyanshu_singh10114?theme=dark&border=0&radius=14&ext=badge&bgColor=0d1117&text=ffffff&icon_color=d4af37" width="420" />
+</a>
+
+
+
+
 
 
 
