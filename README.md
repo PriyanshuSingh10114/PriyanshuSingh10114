@@ -5,17 +5,6 @@
 <h2 align="center">Full Stack Developer | Cloud & DevOps</h2>
 <h3 align="center">MERN • CI/CD • Kubernetes • Cloud Infrastructure</h3>
 
-
-=> I am a Full Stack Developer with strong experience in building scalable, real-world applications using the **MERN stack**.
-
-=> My focus is on developing clean, maintainable architectures and deploying them in modern cloud environments.
-
-=> I actively explore **Cloud-Native, DevOps, and automation tools** to streamline development, improve performance, and reduce operational overhead.
-
-=> Currently deepening my knowledge in **AWS, Kubernetes, CI/CD pipelines, and production-grade deployments.**
-
-=> I enjoy turning ideas into working solutions — from UI/UX to backend logic, infrastructure, and deployment.
-
 ---
 
 ### 💬 What I Do
