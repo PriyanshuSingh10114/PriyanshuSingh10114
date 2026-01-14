@@ -5,13 +5,12 @@
 <h2 align="center">Full Stack Developer | Cloud & DevOps</h2>
 <h3 align="center">MERN • CI/CD • Kubernetes • Cloud Infrastructure</h3>
 
----
 
 ### 💬 What I Do
 - 🔥 Build full-stack projects using **React, Node.js, Express & MongoDB**
 - ☁️ Deploy and maintain apps on **AWS, Render, Vercel**
-- ⚙️ Automate workflows using **Docker, CI/CD, Cloud Tools**
-- 📡 Design scalable **REST APIs & backend architectures**
+- ⚙️ Automate workflows using **Docker, k8s, CI/CD, Cloud Tools**
+- 📡 Design scalable **Cloud & backend architectures**
 
 ---
 
