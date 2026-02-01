@@ -6,20 +6,17 @@
 <h3 align="center">MERN • CI/CD • Kubernetes • Cloud Infrastructure</h3>
 
 
-### 💬 What I Do
-- 🔥 Build full-stack projects using **React, Node.js, Express & MongoDB**
-- ☁️ Deploy and maintain apps on **AWS, Render, Vercel**
-- ⚙️ Automate workflows using **Docker, k8s, CI/CD, Cloud Tools**
-- 📡 Design scalable **Cloud & backend architectures**
+### 💬 About Me  
+I am a **Full Stack Developer with a strong focus on Cloud and DevOps**, passionate about building scalable, high-performance applications and deploying them using modern cloud-native practices. I specialize in developing end-to-end solutions with **React, Node.js, Express, and MongoDB**, while ensuring reliability, security, and performance through efficient system design.
+
+I actively work with cloud platforms such as **AWS**, along with modern deployment tools like **Docker, Kubernetes, and CI/CD pipelines**, to automate workflows and streamline application delivery. My interests lie in **cloud infrastructure, backend engineering, and system automation**, where I enjoy solving real-world problems and turning ideas into production-ready systems.
+
+I thrive in collaborative environments, adapt quickly to new technologies, and continuously strive to improve my engineering skills while building impactful and scalable digital solutions.
 
 ---
 
-### 📬 Reach Me
-- **Email:** *priyanshusingh22340@gmail.com*
-
----
-
-✨ *I thrive in a collaborative environment, learn fast, and love solving real problems through technology.*
+### 📬 Reach Me  
+- **Email:** *priyanshusingh22340@gmail.com*  
 
 
 ## 🚀 My Tech Stack
@@ -56,6 +53,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab CI/CD](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
@@ -83,6 +81,8 @@
 ## 🎓 Certifications
 
 [![AZ-900](https://img.shields.io/badge/Microsoft_Azure_Fundamentals-AZ--900-d4af37?style=for-the-badge&logo=microsoftazure&logoColor=white)]()
+
+[![AWS CLF-C02](https://img.shields.io/badge/AWS_Cloud_Practitioner-CLF--C02-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)]()
 
 
 
