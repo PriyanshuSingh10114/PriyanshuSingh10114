@@ -83,9 +83,11 @@ I thrive in collaborative environments, adapt quickly to new technologies, and c
 ---
 ## 🎓 Certifications
 
-[![AZ-900](https://img.shields.io/badge/Microsoft_Azure_Fundamentals-AZ--900-d4af37?style=for-the-badge&logo=microsoftazure&logoColor=white)]()
+[![AWS SAA-C03](https://img.shields.io/badge/AWS_Solutions_Architect_Associate-SAA--C03-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)]()
 
 [![AWS CLF-C02](https://img.shields.io/badge/AWS_Cloud_Practitioner-CLF--C02-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)]()
+
+[![AZ-900](https://img.shields.io/badge/Microsoft_Azure_Fundamentals-AZ--900-d4af37?style=for-the-badge&logo=microsoftazure&logoColor=white)]()
 
 
 
