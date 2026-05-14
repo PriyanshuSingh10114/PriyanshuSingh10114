@@ -15,6 +15,13 @@ I thrive in collaborative environments, adapt quickly to new technologies, and c
 
 ---
 
+<div align="center">
+  
+![Profile Views](https://komarev.com/ghpvc/?username=PriyanshuSingh10114&style=for-the-badge&color=blueviolet)
+
+</div>
+
+---
 ### 📬 Reach Me  
 - **Email:** *priyanshusingh22340@gmail.com*  
 
