@@ -21,7 +21,6 @@ I thrive in collaborative environments, adapt quickly to new technologies, and c
 
 </div>
 
----
 ### 📬 Reach Me  
 - **Email:** *priyanshusingh22340@gmail.com*  
 
