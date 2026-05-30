@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://private-user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Nzk4NzYzMzUsIm5iZiI6MTc3OTg3NjAzNSwicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA1MjQtMGM3ZWI2ZWQtNjYzYi00Y2U0LWJmYmQtMTgyMzlhMzhiYTFiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA1MjclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNTI3VDEwMDAzNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTllMmVmMmI0ZDFmNWI2MWM0NDUwMGExY2Y1NjJlOTE4ZTAyNDRhZDJhNGVlMTVhNzNhODE3ZjhiNGNlYmNkNzImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRmdpZiJ9.5gHQpp_oXKpN7rWYWy4J35h8o6kUgJrDUzzaXUVXdpE" alt="Banner GIF" width="100%">
+  <img src="github-profile.gif" alt="Banner GIF" width="100%">
 </p>
 
 <h2 align="center">Cloud & DevOps Engineer | MLOps Enthusiast | Full Stack Architect</h2>
