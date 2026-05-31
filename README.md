@@ -96,6 +96,12 @@ I thrive in collaborative environments, adapt quickly to new technologies, and c
 [![AZ-900](https://img.shields.io/badge/Microsoft_Azure_Fundamentals-AZ--900-d4af37?style=for-the-badge&logo=microsoftazure&logoColor=white)]()
 
 
+---
+## 📊 GitHub Streak
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PriyanshuSingh10114&theme=tokyonight&hide_border=true" />
+</p>
+
 
 
 
