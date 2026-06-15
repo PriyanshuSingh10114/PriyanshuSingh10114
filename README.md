@@ -2,7 +2,9 @@
   <img src="github-profile.gif" alt="Banner GIF" width="100%">
 </p>
 
-<h2 align="center">Cloud & DevOps Engineer | MLOps Enthusiast | Full Stack Architect</h2>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Priyanshu+Singh;AWS+Certified+Solutions+Architect;Cloud+%26+DevOps+Engineer;Full+Stack+Developer;Building+Scalable+Cloud+Applications" alt="Typing SVG" />
+</p>
 <h3 align="center">MERN • CI/CD • AWS Solution Architect • Microservices</h3>
 
 
@@ -44,12 +46,15 @@ I thrive in collaborative environments, adapt quickly to new technologies, and c
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Context API](https://img.shields.io/badge/React_Context_API-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 ---
 
 ### 🗄️ Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
@@ -66,6 +71,17 @@ I thrive in collaborative environments, adapt quickly to new technologies, and c
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
+![AWS EKS](https://img.shields.io/badge/AWS_EKS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS ECR](https://img.shields.io/badge/AWS_ECR-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+---
+
+### 🤖 Machine Learning & AI
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit--Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Natural Language Processing](https://img.shields.io/badge/NLP-4285F4?style=for-the-badge)
 
 ---
 
