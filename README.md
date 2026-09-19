@@ -52,7 +52,7 @@ I'm a **Software Engineer** focused on **building scalable applications, cloud i
 ### Cloud & DevOps
 
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform,ansible,jenkins" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform,ansible,jenkins,cloudflare" />
 </p>
 
 **AWS EC2 • S3 • EKS • ECR • IAM • CloudFront • Route 53 • ALB**
@@ -60,7 +60,7 @@ I'm a **Software Engineer** focused on **building scalable applications, cloud i
 ### CI/CD & Infrastructure
 
 <p>
-  <img src="https://skillicons.dev/icons?i=githubactions,gitlab,jenkins,terraform,ansible" />
+  <img src="https://skillicons.dev/icons?i=githubactions,gitlab" />
 </p>
 
 
