@@ -40,7 +40,7 @@
   </tr>
 </table>
 
-## About Me
+## More Details
 
 I'm a **Software Engineer** focused on **building scalable applications, cloud infrastructure, AI-powered systems, and reliable deployment workflows.** My primary areas of interest include: <b>Cloud & DevOps, AI Application Development, Backend Engineering, Full Stack Development, Cloud-Native Architecture, Infrastructure as Code, CI/CD Automation, Distributed Systems</b>. I enjoy working across the complete engineering lifecycle from **building applications and APIs to containerization, infrastructure automation, deployment, and monitoring**.
 
