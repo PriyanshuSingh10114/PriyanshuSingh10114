@@ -16,6 +16,34 @@
 
 I'm a **Software Engineer** focused on **building scalable applications, cloud infrastructure, AI-powered systems, and reliable deployment workflows.** My primary areas of interest include: <b>Cloud & DevOps, AI Application Development, Backend Engineering, Full Stack Development, Cloud-Native Architecture, Infrastructure as Code, CI/CD Automation, Distributed Systems</b>. I enjoy working across the complete engineering lifecycle from **building applications and APIs to containerization, infrastructure automation, deployment, and monitoring**.
 
+## 👨‍💻 Author Details & Organization
+
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="30%">
+      <img src="https://github.com/PriyanshuSingh10114.png" width="130px;" alt="Priyanshu Singh" style="border-radius: 50%; box-shadow: 0 4px 12px rgba(0,0,0,0.3);"/><br/>
+      <b>Priyanshu Singh</b><br/>
+      <sub>Software Engineer | AI, Cloud & Cybersecurity</sub>
+    </td>
+    <td width="70%">
+      <p><b>Bio:</b> Computer Science and Engineering student specializing in AI application development, cloud-native systems, cybersecurity, and DevSecOps. Experienced in building AI-powered applications, secure backend services, cloud infrastructure, and security-focused automation.</p>
+      <p>
+        <a href="https://github.com/PriyanshuSingh10114"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+        <a href="mailto:priyanshusingh22340@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+        <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+      </p>
+      <p>
+        <b>Experience & Technical Focus:</b><br/>
+        <img src="https://img.shields.io/badge/TM_Cloud_Solutions-AI_Application_Development-0284C7?style=flat-square&logo=googlecloud&logoColor=white" alt="TM Cloud Solutions"/>
+        <img src="https://img.shields.io/badge/Quick_Intell-Software_Engineering-6366F1?style=flat-square&logo=git" alt="Quick Intell"/>
+        <img src="https://img.shields.io/badge/AI_&_GenAI-LangGraph_&_FastAPI-0EA5E9?style=flat-square&logo=openai&logoColor=white" alt="AI & GenAI"/>
+        <img src="https://img.shields.io/badge/Cloud_&_DevSecOps-AWS_&_Kubernetes-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="Cloud & DevSecOps"/>
+      </p>
+    </td>
+  </tr>
+</table>
+
+
 ## Tech Stack
 
 ### Programming Languages
